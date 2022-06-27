@@ -1,0 +1,1 @@
+ALTER TABLE users_roles ALTER COLUMN role_id TYPE VARCHAR(3);

@@ -1,0 +1,1 @@
+ALTER TABLE orders ADD license_id VARCHAR(36) REFERENCES licenses(id);
